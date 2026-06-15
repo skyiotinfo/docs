@@ -1,0 +1,13 @@
+ti sprinkler 
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/motor_board.cpp
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/valve1_board.cpp
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/valve2_board.cpp
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/valve3_board.cpp
+
+
+home tank sender and receiver
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/ti_2011.cpp
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/w_d_c_on_off_receive.cpp
+
+esp8266 device code
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/esp_supa_v1.cpp
