@@ -18,3 +18,8 @@ esp8266 device + Lora device
 https://github.com/skyiotinfo/espfiles1/blob/anupam/src/lora_internet.cpp
 https://github.com/skyiotinfo/espfiles1/blob/anupam/src/lora_master.cpp
 https://github.com/skyiotinfo/espfiles1/blob/anupam/src/lora_slave.cpp
+
+ti water management + serial communication + supabase
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/ti_2301.cpp  (tank)
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/t1_test.cpp  (motor+serial)
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/t1_test_receiver_hardware_supabase.cpp  (supabase)
