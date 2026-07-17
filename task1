@@ -1,1 +1,17 @@
+ESP Now Coding:
+ 1. Motor Controller - Done
+ 2. Valve Controller - Done
+ 3. Communication Board - Pending - ESP Now is implemented, collect the data and send the data directly to the supabase table.
 
+
+Hardware:
+ 1. Create a controler for valve
+    a. Encloser (Box) - contains step down adapter / AC or DC connected to relay. ESP board 139 output will be connected to relay to trigger
+    b. Solonide valve to be installed near the tank
+    c. Sensors to be installed and aligend properly to every tank. Total 5 wires, 3 for sensor and 2 from automated valve
+    d. Connect power supply to the Box 
+ 2. Main motor controller
+    a. Box with DC 5v supply
+    b. Door sensor wires 
+    c. Door sensors to be installer to manual valve
+    d. 
