@@ -24,3 +24,12 @@ ti water management + serial communication + supabase
 https://github.com/skyiotinfo/espfiles1/blob/anupam/src/ti_2301.cpp  (tank)
 https://github.com/skyiotinfo/espfiles1/blob/anupam/src/t1_test.cpp  (motor+serial)
 https://github.com/skyiotinfo/espfiles1/blob/anupam/src/t1_test_receiver_hardware_supabase.cpp  (supabase)
+
+Honda showroom 
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/showroom_monitor_board_supabase.cpp
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/showroom_monitor_board_v0.cpp
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/showroom_motor_v2.cpp
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/showroom_reflector.cpp
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/showroom_reflectorA.cpp
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/showroom_reflectorB.cpp
+https://github.com/skyiotinfo/espfiles1/blob/anupam/src/showroom_slave_v1.cpp
