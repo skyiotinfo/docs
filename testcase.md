@@ -1,7 +1,7 @@
 1.	EPS device will login using the hardcoded supabase details and keep updating the heartbeat 
-    ## login succuss and keep on updating the heartbeat filed.
-    ## The supabase will keep on monitoring the heartbeat field of the device and update the updated_at value for the device.
-    ## 	- 
+    ** login succuss and keep on updating the heartbeat filed.
+    ** The supabase will keep on monitoring the heartbeat field of the device and update the updated_at value for the device.
+    ** 	- 
 2.	ESP device will login using the hardcode supabase details but wifi is not available
     a.	- 
 3.	ESP device will login using the hardcode supabase details but internet is not accessible.
