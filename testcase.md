@@ -12,6 +12,7 @@
     *	The last updated value must be shown on the SKYIOT-connect app
     *	The esp device will keep on sending
 6.	User press START button on the esp device, device started for the 30 min duration.
-7.	User press the STOP button while the device is running (motor started)
-8.	User device will START running at the schedule duration - 
+7.	User press the STOP button while the device is running
+8.	User press the STOP button while the device is running with schedule start
+9.	User device will START running at the schedule duration - 
     *	Prerequisites - The schedule is updated using the app and is available on
