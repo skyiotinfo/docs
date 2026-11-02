@@ -1,5 +1,13 @@
 1. VB Honda - problems and solutions
-  a.  
+  a.  Borewell device replacement
+      Anupam working on the code review for logic
+      12 to 5v conversion and supply the 5v to ESP board.
+      12 volt will be connected to solenoid valve
+      Add diode to to solenoid 
+  b.  Washing, Canteen, Overhead - bring up again (currently down).
+      12 volt power usage? or 24 v AC ?
+      Water filtering problem .
+  c.  Wireless device problem - LORA
 2. TI Industries - Water management problem and solution
   a.
 3. Product Research/Development
